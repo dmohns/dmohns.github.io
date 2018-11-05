@@ -12,9 +12,6 @@
 }
 .avatar img:hover {
   border-radius: 10%;
-  transform: scale(1.1);
-  overflow: hidden;
-  */
 }
 
 .footer a {
