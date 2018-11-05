@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dmohns.github.io</title>
+    <link>https://dmohns.github.io/</link>
+    <description>Recent content on dmohns.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://dmohns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About This Site</title>
+      <link>https://dmohns.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmohns.github.io/about/</guid>
+      <description>Site is built with Hugo hosted on Github.
+Theme inspired by Dark LeaveIt
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>https://dmohns.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmohns.github.io/contact/</guid>
+      <description>Feel free to drop me a message!</description>
+    </item>
+    
+  </channel>
+</rss>
