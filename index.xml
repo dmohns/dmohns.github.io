@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dmohns.github.io</title>
-    <link>https://dmohns.github.io/</link>
+    <link>https://danielmohns.com/</link>
     <description>Recent content on dmohns.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dmohns.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielmohns.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About This Site</title>
-      <link>https://dmohns.github.io/about/</link>
+      <link>https://danielmohns.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dmohns.github.io/about/</guid>
+      <guid>https://danielmohns.com/about/</guid>
       <description>This site is &amp;hellip;
  built with Hugo using Coder theme hosted on Github Pages inspired by LeaveIt theme  Thanks for reading!</description>
     </item>
     
     <item>
       <title>Contact me</title>
-      <link>https://dmohns.github.io/contact/</link>
+      <link>https://danielmohns.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dmohns.github.io/contact/</guid>
+      <guid>https://danielmohns.com/contact/</guid>
       <description>Feel free to drop me a message!</description>
     </item>
     
