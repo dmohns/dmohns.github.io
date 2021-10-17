@@ -14,7 +14,7 @@
   border-radius: 10%;
 }
 
-.footer a {
+/* .footer a {
   font-weight: 600;
   color: #a9a9b3;
   text-decoration: none;
@@ -23,7 +23,7 @@
 .footer a:focus, a:hover {
   color: #fff;
   text-decoration: none;
-}
+} */
 
 h1 {
     font-family: 'Josefin Sans', Lato, Helvetica, sans-serif;
