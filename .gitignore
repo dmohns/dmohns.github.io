@@ -1,6 +1,10 @@
+# Hugo output
 public/
 resources/
-.DS_Store
+.hugo_build.lock
 
 # Hugo build output
 site/
+
+# MacOS
+.DS_Store
