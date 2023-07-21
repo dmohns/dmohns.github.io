@@ -21,7 +21,7 @@ anonymizeIP = true
   author = "Daniel Mohns"
   description = "Daniel's personal website"
   keywords = "developer,personal"
-  info = "Data Engineer"
+  info = "Software and Data Engineer"
   avatarurl = "images/avatar.jpg"
   # footercontent = "Here's a [link to google](https://www.google.com)"
 
