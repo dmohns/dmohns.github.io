@@ -1,0 +1,6 @@
+public/
+resources/
+.DS_Store
+
+# Hugo build output
+site/
