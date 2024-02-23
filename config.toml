@@ -56,22 +56,22 @@ anonymizeIP = true
 
 [[params.social]]
   name = "Github"
-  icon = "fa-brands fa-github"
+  icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/dmohns/"
 [[params.social]]
   name = "Gitlab"
-  icon = "fa-brands fa-gitlab"
+  icon = "fa-brands fa-gitlab fa-2x"
   weight = 2
   url = "https://gitlab.com/dmohns/"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa-brands fa-linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/dmohns/"
 [[params.social]]
   name = "Mail"
-  icon = "fa fa-envelope"
+  icon = "fa fa-envelope fa-2x"
   weight = 4
   url = "javascript:antiSpamMail.linkDecrypt('nbjmup;ebojfm/npiotAqptufp/ef');"
 
