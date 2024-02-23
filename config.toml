@@ -56,17 +56,17 @@ anonymizeIP = true
 
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github"
+  icon = "fa-brands fa-github"
   weight = 1
   url = "https://github.com/dmohns/"
 [[params.social]]
   name = "Gitlab"
-  icon = "fa fa-gitlab"
+  icon = "fa-brands fa-gitlab"
   weight = 2
   url = "https://gitlab.com/dmohns/"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-linkedin"
+  icon = "fa-brands fa-linkedin"
   weight = 3
   url = "https://www.linkedin.com/in/dmohns/"
 [[params.social]]
