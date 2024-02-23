@@ -25,9 +25,8 @@ anonymizeIP = true
   avatarurl = "images/avatar.jpg"
   # footercontent = "Here's a [link to google](https://www.google.com)"
 
-  apple_touch_icon = "/apple-touch-icon.png"
-  favicon_32 = "/favicon-32x32.png"
-  favicon_16 = "/favicon-16x16.png"
+  favicon_32 = "/favicon.png"
+  favicon_16 = "/favicon.png"
 
   dateformat = "January 2, 2006"
 
