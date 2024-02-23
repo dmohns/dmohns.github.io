@@ -48,7 +48,8 @@ anonymizeIP = true
   # Custom
   customCSS = [
     "css/custom.css",
-    "https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700|Josefin+Sans"
+    "css/fonts.css",
+    # "https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700|Josefin+Sans"
   ]
   customSCSS = ["scss/custom.scss"]
   customJS = ["js/antispammail-v0.1.5.min.js"]
